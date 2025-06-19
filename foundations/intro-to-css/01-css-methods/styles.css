@@ -1,0 +1,9 @@
+/* Div type, top bar css using external method*/
+
+div {
+    color: white;
+    background: red;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
